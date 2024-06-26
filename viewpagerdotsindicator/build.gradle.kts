@@ -35,7 +35,7 @@ dependencies {
     implementation("androidx.appcompat:appcompat:1.6.1")
     implementation("androidx.dynamicanimation:dynamicanimation:1.0.0")
 
-    implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlinVersion")
+    implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.10")
     implementation("androidx.viewpager2:viewpager2:1.0.0")
 
     val composeBom = platform("androidx.compose:compose-bom:2023.03.00")
