@@ -1,6 +1,7 @@
 plugins {
     id("com.android.library")
     kotlin("android")
+    id("com.vanniktech.maven.publish").version("0.19.0")
 }
 
 android {
